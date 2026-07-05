@@ -1,0 +1,28 @@
+{
+  "version": "1.2.0",
+  "update_type": "recommended",
+  "pub_date": "2026-07-05T10:03:08Z",
+  "notes": "Murmur v1.2.0",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v1.2.0/murmur_1.2.0_x64_en-US.msi",
+      "signature": ""
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v1.2.0/bundle_dmg.sh",
+      "signature": ""
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v1.2.0/bundle_dmg.sh",
+      "signature": ""
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v1.2.0/murmur_1.2.0_amd64.AppImage",
+      "signature": ""
+    },
+    "linux-x86_64-deb": {
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v1.2.0/murmur_1.2.0_amd64.deb",
+      "signature": ""
+    }
+  }
+}
