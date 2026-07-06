@@ -2,8 +2,8 @@
   "version": "2.2.0",
   "update_type": "recommended",
   "pub_date": "2026-07-06T15:46:33Z",
-  "notes": "Murmur v2.2.0",
-  "notes": "Bug fixes",
+  "notes": "Murmur v2.2.0\n- Cost tracking & dashboard cards\n- Trial sidebar card (free users only)\n- Removed onboarding preview window\n- Bug fixes",
+  
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.0/murmur_2.2.0_x64_en-US.msi",
