@@ -1,29 +1,28 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "update_type": "recommended",
-  "pub_date": "2026-07-06T15:46:33Z",
-  "notes": "Murmur v2.2.0\n- Cost tracking & dashboard cards\n- Trial sidebar card (free users only)\n- Removed onboarding preview window\n- Bug fixes",
-  
+  "pub_date": "2026-07-06T16:39:56Z",
+  "notes": "Murmur v2.2.1",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.0/murmur_2.2.0_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5alkzekg5TVZNTlJPYk1BcWNGQURNQ1FJVlVqVVlPVzZHRGJPODVLOGJQc1ZEQkptMVAzUzRkaWZuZEp4N2ZZYTVUc2VaWEZUZFQxNGQweVRwaHdqTVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzUyNzQ5CWZpbGU6bXVybXVyXzIuMi4wX3g2NF9lbi1VUy5tc2kKWDJIVDgrZEZkeERweG5TT0xoVm11N3dmdjZGODZBRVFuMHNYMW9aUzBZN2h2SC9Ea20xMDlTZktZTWhjejZpbXN2UVUwcGUwVnNENFBYS2t3bkhuRHc9PQo="
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.1/murmur_2.2.1_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5amNqMWl2MCtLMVd1Z0VNQmhXbkNqQ09PRXhxVlZFSjdSV3JOdDZTOUx4TVk0UlVWYzBISWhTdVdUc202RG1KNnp6VWNDL3poR2JFU3J0ZTdmaTY0THdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzU1OTUwCWZpbGU6bXVybXVyXzIuMi4xX3g2NF9lbi1VUy5tc2kKL1BsRWpGYXNudDJkQTk0dEp6Y0xkV2Q3TjVvVGd5OE44cnR2cDkyZ3hKeERmaGtqSkI5Q2kxQ2NManpEWmpZR3IyZFBGZHFmS2FtQUlZYmJhVnArQnc9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.0/murmur_2.2.0_x64.dmg",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5amFpbmlYWXhJSnlML0VqeE16TzdBcXgwZ0dPQ0FHOWRSTU16dkZJeVc1a1luR3JOOHRnRm80TnJyOUx5eVhMWkNGT0tMNmlwU3UxVU4rYzVpUlBuZEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzUyMTg5CWZpbGU6bXVybXVyXzIuMi4wX3g2NC5kbWcKQU5ac2dLT1NEY3pQTldkRWo1VWhvRkdwV0FETVU5QW5jbG5xYmt0elNJbmpsWHYwandBMEhwNEc3ZVRYeE9xM1ZSN0VCZU4vMisyYjZnSnB4SXk5QVE9PQo="
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.1/murmur_2.2.1_x64.dmg",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5alJLc0NWcTVmMThCMHZqZFJBT09SNWxHa1dwOVNxOGZJbk1Obmx5aGkzRGZzaElnbmxaa1dqVE5FTG9GdzlKRFg1Zi90K1JjVnJ6cXhPUXJiaG5vZ1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzU0OTk1CWZpbGU6bXVybXVyXzIuMi4xX3g2NC5kbWcKN3RZbTdBTHZVRitTSG1qMkw5YVZqaWNiTnpQNkRtOHRUU2xxMWdMMlBoUmUyeXBncnVRWjE0Rkhnak15OEF2cDlzY3pqWWhUanNHZ2MxVndHUjE4Q1E9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.0/murmur_2.2.0_aarch64.dmg",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5amNnbFF3R3NwWGpaZlRuMlNEOGZGS2I2Y3pkTVdCTTduWHIzSEVyK1hONitWSEh0VVo3NDRNNTFyZ0grWkc2cHRMWmkxSmNGQUc2ZmR6Mklyb3hrWlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzUyMTEwCWZpbGU6bXVybXVyXzIuMi4wX2FhcmNoNjQuZG1nClRRRW9iZFJYQ0lDcnRHcnZjaE55SGFWYXk5a3JCOW1NeVQvdnNyWlRrVmZiU09EcVF3UUZuWE0yYzhtSHZpWWZaQTZRejBCQzVWa3J6NW1UN0hkZkNRPT0K"
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.1/murmur_2.2.1_aarch64.dmg",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5alpsOTRJVjRjMW05b0loTjk3My9LYkkvdmtGZUJlanlCVDlIRUFlMmx2OFpCUDZoY1pRdU1iOVZ3L3lEcjV0a2g0NnpYT0FFN2RKcFhjM0xXazExY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzU1MDU4CWZpbGU6bXVybXVyXzIuMi4xX2FhcmNoNjQuZG1nCnkvNGlKVUw2MGRzNHl1SW9ldk9jSnhzbnloNi9wc3ZmZXdOaU9qa0dXclM2ekhaSzF3WVNFMDFnaWRaT0wzd3E2alZQTjI0QWhUSmptcGNPaFpXMENRPT0K"
     },
     "linux-x86_64": {
-      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.0/murmur_2.2.0_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5aldKVnFKdk14SUxhczVhUmJDT0J6ODU1dWtYRHVCOCs2RVE4TytsYnZLd0FEb0pJbXBjSFNJWlB0SllpbmFpclM5SzRubkE3NW9lYVp3ZjZGa1lNQndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzUyNjI1CWZpbGU6bXVybXVyXzIuMi4wX2FtZDY0LkFwcEltYWdlCkRLS1g1TTIweFRCTnB4ZnlIYk1jT3lIREtOVjl0eXQyMlU2SkZGbWdRWGwyRU9VOGc4a2tSSEZUYmpEa3g0aUJlYnNnTzYwbDRIMFlFcnlNaTRnd0JRPT0K"
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.1/murmur_2.2.1_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5amRSdEpYN2dNN044LzdEeWJCTGV1aTE5c0h1MGR1bnMxOGU0cVlpZVRoWHpxMXBBUnJHem1CbUZZaXd4Q09XK0VyL0pibm8wZFBNdkVpaUxFMFp1bXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzU1NTU4CWZpbGU6bXVybXVyXzIuMi4xX2FtZDY0LkFwcEltYWdlCkdVQ0pIanhwUzZaRW5mQVhNUkxnckxKbmMyS2ZqQzllYy9nS3NpZDdXeFhSTmFDRjJveVFuQ0VCa2FSVXVpWkxwUlp2ZEVwZ0NqaWpqMW9CZHo3L0FBPT0K"
     },
     "linux-x86_64-deb": {
-      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.0/murmur_2.2.0_amd64.deb",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5amNnS2hpQnYrbW5KT3J4SVJ4NHVjLy9obENwREYxS0NoUTh6bytEZ2w5eHg2UFpVMGhsRlI5VllCOHY0YWRzaWJZMU9NaWs2aFpKY1FZcDBDV3lCSmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzUyNjI1CWZpbGU6bXVybXVyXzIuMi4wX2FtZDY0LmRlYgpUZzFGSGhrTGpJdytUZWlmaXgwZEZqMTVDdGZpZUIxRWpsWkl0VFZGVE5rc3VQVFBXa3UrdTR0aU9qOVdJWXB0Yng0MnBqLzRQUk9uUjRpWnpTcFNBQT09Cg=="
+      "url": "https://github.com/Elixir-Piloting/murmur-releases/releases/download/v2.2.1/murmur_2.2.1_amd64.deb",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOEJ3MjRYOFV5alMzbmpKR3FkaVhSeWVvdmNmblZCSXJPMFZUSHVPdTJUc05XRTc5dlNYYmw0NW1ERG44cllMYWhFSG9uVUw2cXZMTkxsc3V5dWJXdk9wTmtGTk1qbHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzU1NTU3CWZpbGU6bXVybXVyXzIuMi4xX2FtZDY0LmRlYgpiU3BWeGgxZDF2bnpqWEYvS1pSQ3VmaTRXY0tRSlRSc3NmRnkvcHNtQytQc3Y4UmQ1N0V5Uy9vb0hobVVWK1RadWFwTHAzSUNPTzArdUExQkU2aVZBdz09Cg=="
     }
   }
 }
